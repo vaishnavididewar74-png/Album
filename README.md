@@ -1,2 +1,3 @@
 My Album Webpage is a creative and visually attractive web project developed using HTML5 and External CSS. This project is designed to showcase different CSS styling techniques such as simple selectors, borders, outlines, gradients, shadows, border-radius. The webpage contains multiple styled image sections arranged in an album format with decorative layouts and unique visual effects. Google Fonts are also used to improve the appearance of the text design. This project helps in understanding external CSS implementation, image styling, and basic frontend design concepts. The project is currently not responsive and is mainly created for learning and practice purposes in web development.
+
 Live Demo: https://vaishnavididewar74-png.github.io/Album/
